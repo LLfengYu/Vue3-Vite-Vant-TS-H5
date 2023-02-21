@@ -8,17 +8,6 @@
 
 基于Vue3 + Vite + Vant + Sass+ rem适配方案 + Axios封装，构建手机端模板脚手架 
 
-### 预览
-
-[查看 demo](https://talktao.github.io/Vue3-Vite-Vant-TS-H5) 建议手机端查看
-
-### 关注我的掘金
-
-掘金：[Vue3 Vite Vant TS rem 移动端H5框架方案](https://juejin.cn/post/7078877401626705957)
-
-### 贡献代码
-
-使用过程中发现任何问题都可以提Issue 给我，也非常欢迎 PR 或 Pull Request
 
 ### Node 版本要求
 
@@ -481,8 +470,3 @@ export default {
 
 ![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9dc96c132b3642628c1a8cbb84d6c865~tplv-k3u1fbpfcp-watermark.image?)
 
-## 关于我
-
-如果对你有帮助送我一颗小星星（づ￣3￣）づ╭❤～
-
-转载请联系作者！
